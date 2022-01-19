@@ -56,7 +56,6 @@
 # Ignore custom HTTPD configs
 /cfg/apache-2.2/*.conf
 /cfg/apache-2.4/*.conf
-/cfg/nginx-stable/*.conf
 /cfg/nginx-mainline/*.conf
 
 # Ignore custom MySQL configs
